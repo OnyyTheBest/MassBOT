@@ -1,5 +1,5 @@
 All Rights Reserved
-Copyright (c) ${{ github.repository }} ${{ github.repository }}
+Copyright (c) 2023 Chigghion // @OnyyTheBest
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
